@@ -1,0 +1,8 @@
+{
+    "database":{
+        "mongodb":{
+            "local":"mongodb://0.0.0.0:27017/Authentication",
+            "atals":""
+        }
+    }
+}
